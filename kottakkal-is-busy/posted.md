@@ -7,3 +7,6 @@
 - CIVIC (feed): വേങ്ങര ഓട്ടിസം സെന്ററിൽ ഉപകരണങ്ങൾ തകരാറിൽ (Madhyamam)
 - EVENT (story): ജില്ലാ കരാട്ടെ: സബ്ജൂനിയർ മത്സരങ്ങൾ ഇന്ന് (Mathrubhumi)
 - WEATHER (story): ഈ ആഴ്ച ഇടവിട്ട് മഴയ്ക്ക് സാധ്യത (IMD)
+
+## 2026-11-15 evening
+- EVENT (feed): ദേശീയ സരസ് മേള കൂരിയാട്ട്; ഡിസംബർ 22 മുതൽ (Mathrubhumi)
