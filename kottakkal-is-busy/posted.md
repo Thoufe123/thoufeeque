@@ -1,0 +1,9 @@
+# Kottakkal is Busy — posted headlines log
+
+## 2026-11-14
+- PRIDE: വന്ദേഭാരത് കന്നിയാത്ര നയിച്ചത് കോട്ടക്കൽ സ്വദേശി (Mathrubhumi)
+
+## 2026-11-15 morning
+- CIVIC (feed): വേങ്ങര ഓട്ടിസം സെന്ററിൽ ഉപകരണങ്ങൾ തകരാറിൽ (Madhyamam)
+- EVENT (story): ജില്ലാ കരാട്ടെ: സബ്ജൂനിയർ മത്സരങ്ങൾ ഇന്ന് (Mathrubhumi)
+- WEATHER (story): ഈ ആഴ്ച ഇടവിട്ട് മഴയ്ക്ക് സാധ്യത (IMD)
